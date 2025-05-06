@@ -1,0 +1,8 @@
+spotipy
+python-dotenv
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scikit-fuzzy
