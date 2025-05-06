@@ -25,6 +25,7 @@ This project uses the Spotify Web API and clustering to analyze listening data a
 CLIENT_ID=your_spotify_client_id
 CLIENT_SECRET=your_spotify_client_secret
 SPOTIPY_REDIRECT_URI='http://127.0.0.1:5000/callback'
+```
 
-#### Download dataset
+### Download dataset
 https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks
