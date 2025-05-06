@@ -2,7 +2,7 @@
 
 This project uses the Spotify Web API and clustering to analyze listening data and provide music recommendations based on clustered preferences.
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.8+
 - Spotify Developer account (to get API credentials)
@@ -19,7 +19,7 @@ This project uses the Spotify Web API and clustering to analyze listening data a
 - `scikit-fuzzy`
 - `heapq`
 
-## 📦 Setup Instructions
+## Setup Instructions
 ### Set up Spotify API keys in .env
 ```env
 CLIENT_ID=your_spotify_client_id
